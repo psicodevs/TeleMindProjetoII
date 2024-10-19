@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: var(--texto-medio-font-family);
+}
+
+#container {
+    height: 100vh;
+    max-width: 393px;
+    border-radius: 0 0 8px 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--branco);
+    
+}
+#cabecalho{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--azul);
+    color: var(--branco); 
+    height: 133px;
+    width: 393px;
+    border-radius: 0 0 10px 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+#cabecalho_bem_vindo {
+    display: flex;
+    justify-content: left;
+    align-items:center;
+    width: 276px;
+    height: 49px;
+    color: var(--branco);
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+#usuario {
+    margin-left: 15px;
+}
+#cabecalho_consultas{
+    margin:  20px 0 10px 0;
+    font-size: 16px;
+    
+}
+#cabecalho a, #cabecalho_consultas a {
+    color: var(--branco); 
+    text-decoration: none; 
+    font-weight: bold;
+}
+
+#cabecalho a:hover {
+    text-decoration: underline; 
+}
+#consultas_agendadas {
+    color: var(--branco);
+}
+
+#proximas_consultas {
+    width: 311px;
+    height: 327px;
+    background-color: var(--branco);
+    
+    margin: 15px 0;
+}
+
+#proximas_consultas_header {
+    text-align: left;
+    color: var(--azul);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    height: 220px;
+    
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    color: var(--cinza);
+    margin-bottom: 25px;
+    border-top: 2px solid #ccc;
+}
+#proximas_consultas span:last-child {
+    margin-bottom: 0; }
+
+
+#consulta_financeiro {
+    width: 323px;
+    display: flex;
+    flex-direction: column;
+}
+
+#botao_ver_consultas{
+    background-color: var(--azul);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    font-weight: bold;
+    font-size: 14px;
+    color: var(--branco);
+    border-radius: 50px;
+    transition: background-color 0.3s;
+    width: 209px;
+    height: 30px;
+    margin: 0 55px;
+    cursor: pointer;
+}
+button {
+    width: 323px;
+    height: 78px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+    border: none;
+    border-radius: 16px;
+    cursor: pointer;
+}
+#consulta_financeiro {
+    display: flex; 
+    justify-content: center; 
+    margin: 15px 0; 
+}
+
+button {
+    font-weight: bold; 
+    color: white; 
+    background-color: transparent;
+    border: none; 
+    padding: 10px 20px; 
+    margin: 10px 0; 
+    cursor: pointer;
+}
+
+#em_aberto {
+    background-color: var(--vermelho); 
+}
+
+#faturamento_mes {
+    background-color: var(--verde); 
+}
+
+#em_aberto,
+#faturamento_mes {
+    font-size: 14px; 
+    font-weight: bold;
+}
+#em_aberto_valores,
+#faturamento_mes_valores {
+    font-size: 18px; 
+    font-weight: bold;
+}
+
+#footer {
+    width: 319px;
+    height: 51px;
+    background-color: var(--azul);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px ;
+    
+}
+
+#icones {
+    display: flex;
+    justify-content: space-between;
+    width: 233px;
