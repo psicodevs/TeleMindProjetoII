@@ -1,0 +1,42 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --azul-void: #01080e;
+  --azul-escuro: #041832;
+  --azul-medio: #144480;
+  --azul-neon: #2bdefd;
+  --azul: #006FFB;
+  --roxo: #8026f1;
+  --cinza: #c4c4c4;
+  --cinza-medio: #C2C2C2;
+  --cinza-escuro: #A5A5A5;
+  --cinza-claro: #e3e3e3;
+  --branco: #ffffff;
+  --vermelho: #8C0000;
+  --verde: #008C3A;
+  --azul-escuro-degrade: linear-gradient(
+    52.7deg,
+    rgba(7, 32, 65, 1) 0%,
+    rgba(4, 24, 51, 1) 50%,
+    rgba(21, 69, 128, 1) 100%
+  );
+
+  /* Fonts */
+  --texto-leve-font-family: Inter-Light, sans-serif;
+  --texto-leve-font-size: 16px;
+  --texto-leve-line-height: normal;
+  --texto-leve-font-weight: 300;
+  --texto-leve-font-style: normal;
+  --texto-medio-font-family: Inter-Medium, sans-serif;
+  --texto-medio-font-size: 16px;
+  --texto-medio-line-height: normal;
+  --texto-medio-font-weight: 500;
+  --texto-medio-font-style: normal;
+  --texto-negrito-font-family: Inter-Bold, sans-serif;
+  --texto-negrito-font-size: 16px;
+  --texto-negrito-line-height: normal;
+  --texto-negrito-font-weight: 700;
+  --texto-negrito-font-style: normal;
+
+  
+}
