@@ -1,12 +1,22 @@
-# TeleMindProjetoII
-Projeto Integrador II como critério de avaliação/atualização dos alunos da Univesp 2024
-Desenvolvimento do projeto sem Upload mas através de commits
-Uploads ocorrem quando as pastas são baixadas diretamente no projeto e commit é quando realizado diretamente no VS Code
-Tecnologias utilizadas: Figma, Visual Studio, HTML, CSS, JS, MySQL, Node...
+# TeleMindProjetoII - Versão II
 Em construção...
-Alunos Univesp Eixo Tecnológico São Paulo, SP
-Aplicação para gerenciar e administrar a agenda de uma clinica de Psicologia
-Esse projeto é uma versão mais robusta do TeleMindProjetoI
-A nossa equipe que antes composta apenas pelo campus Formosa agora também é formada pelo campus Campo Belo
-Esse projeto é desenvolvido a cada semestre letivo
-Equipe formada por 8 integrantes e tarefas divididas conforme soft e hard skill de cada um do time.
+Graduandos UNIVESP Eixo Tecnológico São Paulo - SP;
+
+APP para gerenciar e administrar clinica de Psicologia;
+Esse projeto é uma versão mais robusta do TeleMindProjetoI;
+Equipe composta por graduandos do Eixo Tecnológico da Universidade Virtual do Estado de São Paulo;
+Esse projeto visa desenvolver trabalhos que tenha impactos sociais em bairros na cidade de São Paulo;
+O local escolhido foi uma clinica de Psicologia na região da zona leste da cidade de São Paulo;
+Squad formada por alunos com tarefas divididas conforme soft e hard skill de cada um;
+adrielsaul 
+anafontessp
+BiancaZani 
+CristianoPNeves
+MTAveiro
+paulinho-0013
+santos-ana-p
+smartthomazjr
+Tecnologias utilizadas: Figma, Visual Studio, HTML, CSS, JS, MySQL, Node e Trello;
+O TeleMindProjetoI foi a primeira versão do projeto;
+
+
