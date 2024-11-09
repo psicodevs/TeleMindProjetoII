@@ -80,7 +80,7 @@ body {
 
 /* Link Cadastre-se */
 #login_cadastre-se {
-    margin:125px 0; /* Ajuste a margem para ficar mais próximo dos campos */
+    margin:125px 0; 
 }
 
 #login_cadastre-se a {
@@ -109,7 +109,7 @@ body {
 
 .popup .container {
     width: 393px;
-    height: auto; /* Ajuste para auto para se adaptar ao conteúdo */
+    height: auto; 
     background-color: white;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -172,7 +172,7 @@ body {
 }
 
 .popup .submit-button:hover {
-    background-color: #006ffb; 
+    background-color: #0053BA; 
 }
 
 
