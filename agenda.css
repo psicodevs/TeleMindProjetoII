@@ -1,0 +1,1154 @@
+
+/* Agendar Consulta Modal */
+
+body {
+
+    position: relative;
+    width: 393px;
+    height: 490px;
+    background: #FFFFFF;
+
+}
+
+/* Rectangle 83 */
+
+#rectangle83 {
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 339px;
+    height: 38px;
+    left: 27px;
+    top: 39px;
+    background: #D9D9D9;
+    border: 1px solid #C2C2C2;
+    border-radius: 8px;
+
+}
+
+/* Rectangle 84 */
+
+#rectangle83 {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 191px;
+    height: 38px;
+    left: 42px;
+    top: 100px;
+
+    background: #FFFFFF;
+    border: 1px solid #C2C2C2;
+    border-radius: 8px;
+
+}
+
+/* Pesquisas Clientes */
+
+#pesquisaClientes {
+
+    position: absolute;
+    width: 181px;
+    height: 24px;
+    left: 37px;
+    top: 46px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #A5A5A5;
+
+}
+
+/* Horário */
+
+#horario {
+
+    position: absolute;
+    width: 159px;
+    height: 23px;
+    left: 52px;
+    top: 107px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #A5A5A5;
+
+}
+
+/* Vector */
+
+#vector {
+
+    position: absolute;
+    left: 86.01%;
+    right: 9.42%;
+    top: 9.59%;
+    bottom: 86.73%;
+    background: #A5A5A5;
+
+}
+
+/* Group 65 */
+
+#group65 {
+
+    position: absolute;
+    left: 10.43%;
+    right: 10.35%;
+    top: 30.2%;
+    bottom: 16.73%;
+
+}
+
+/* Rectangle 147 */
+
+#rectangle147 {
+
+    box-sizing: border-box;
+    position: absolute;
+    left: 10.43%;
+    right: 10.35%;
+    top: 30.2%;
+    bottom: 16.73%;
+    background: #FFFFFF;
+    /* Cinza */
+    border: 1px solid #C4C4C4;
+    border-radius: 4px;
+
+}
+
+/* Rectangle 150 */
+
+#rectangle150 {
+
+    position: absolute;
+    left: 36.64%;
+    right: 56.1%;
+    top: 55.1%;
+    bottom: 40.44%;
+    background: #006FFB;
+    border-radius: 2px;
+
+}
+
+/* 2024 */
+
+#ano2024 {
+
+    position: absolute;
+    left: 59.06%;
+    right: 28.99%;
+    top: 34.76%;
+    bottom: 62.54%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #252525;
+
+}
+
+/* Dom */
+
+#domingo {
+
+    position: absolute;
+    left: 17.3%;
+    right: 76.39%;
+    top: 42.24%;
+    bottom: 54.63%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #252525;
+
+}
+
+/* Qui */
+
+#quinta {
+
+    position: absolute;
+    left: 57.76%;
+    right: 36.13%;
+    top: 42.24%;
+    bottom: 54.69%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #252525;
+
+}
+
+/* Ter */
+
+#terca {
+
+    position: absolute;
+    left: 38.17%;
+    right: 55.2%;
+    top: 42.24%;
+    bottom: 54.63%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #252525;
+
+}
+
+/* Sab */
+
+#sabado {
+
+    position: absolute;
+    left: 78.37%;
+    right: 15.78%;
+    top: 42.24%;
+    bottom: 54.69%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+
+/* 16 */
+
+#dia16 {
+
+    position: absolute;
+    left: 59.04%;
+    right: 36.55%;
+    top: 63.2%;
+    bottom: 33.68%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+/* 11 */
+
+#dia11 {
+
+    position: absolute;
+    left: 59.04%;
+    right: 36.86%;
+    top: 55.84%;
+    bottom: 41.04%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+/* 23 */
+
+#dia23 {
+
+    position: absolute;
+    left: 59.04%;
+    right: 35.6%;
+    top: 70.33%;
+    bottom: 26.54%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+/* 30 */
+
+#dia30 {
+
+    position: absolute;
+    left: 59.04%;
+    right: 35.6%;
+    top: 76.8%;
+    bottom: 20.08%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+
+/* 20 */
+
+#dia20 {
+
+    position: absolute;
+    left: 28.11%;
+    right: 67.16%;
+    top: 70.33%;
+    bottom: 26.54%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+/* 13 */
+
+#dia13 {
+
+    position: absolute;
+    left: 28.11%;
+    right: 67.16%;
+    top: 63.2%;
+    bottom: 33.68%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+/* 8 */
+
+#dia8 {
+
+    position: absolute;
+    left: 28.11%;
+    right: 67.79%;
+    top: 55.84%;
+    bottom: 41.04%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+/* Text */
+
+#text {
+
+    position: absolute;
+    left: 28.11%;
+    right: 71.89%;
+    top: 48.71%;
+    bottom: 48.17%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+/* 27 */
+
+#dia27 {
+
+    position: absolute;
+    left: 28.11%;
+    right: 67.16%;
+    top: 76.8%;
+    bottom: 20.08%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #252525;
+
+}
+
+/* 19 */
+
+#dia19 {
+
+position: absolute;
+left: 18.01%;
+right: 77.26%;
+top: 70.33%;
+bottom: 26.54%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+
+/* 12 */
+
+#dia12 {
+
+position: absolute;
+left: 18.01%;
+right: 77.26%;
+top: 63.2%;
+bottom: 33.68%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+
+/* 7 */
+
+#dia7 {
+
+position: absolute;
+left: 18.01%;
+right: 78.21%;
+top: 55.84%;
+bottom: 41.04%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 30 */
+
+#dia30 {
+
+position: absolute;
+left: 18.01%;
+right: 76.94%;
+top: 48.71%;
+bottom: 48.17%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #B1B1B2;
+
+}
+
+/* 26 */
+
+#dia26 {
+
+position: absolute;
+left: 18.01%;
+right: 76.94%;
+top: 76.8%;
+bottom: 20.08%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 17 */
+
+#dia17 {
+
+position: absolute;
+left: 69.14%;
+right: 26.13%;
+top: 63.2%;
+bottom: 33.68%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 12 */
+
+#dia12 {
+
+position: absolute;
+left: 69.14%;
+right: 26.13%;
+top: 55.84%;
+bottom: 41.04%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 5 */
+
+#dia5 {
+position: absolute;
+left: 69.14%;
+right: 26.45%;
+top: 48.71%;
+bottom: 48.17%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 24 */
+
+
+#dia24 {
+
+position: absolute;
+left: 69.14%;
+right: 25.5%;
+top: 70.33%;
+bottom: 26.54%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 31 */
+
+#dia31 {
+
+position: absolute;
+left: 69.14%;
+right: 26.13%;
+top: 76.8%;
+bottom: 20.08%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 21 */
+
+#dia21 {
+
+position: absolute;
+left: 38.52%;
+right: 57.06%;
+top: 70.33%;
+bottom: 26.54%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 14 */
+
+#dia14 {
+
+position: absolute;
+left: 38.52%;
+right: 57.06%;
+top: 63.2%;
+bottom: 33.68%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 9 */
+
+#dia9 {
+
+position: absolute;
+left: 38.52%;
+right: 57.38%;
+top: 55.84%;
+bottom: 41.04%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #FFFFFF;
+
+}
+
+/* 2 */
+
+#dia2 {
+
+position: absolute;
+left: 38.52%;
+right: 56.43%;
+top: 48.71%;
+bottom: 48.17%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #7C7C7C;
+
+}
+
+
+/* 1 */
+
+#dia1 {
+
+position: absolute;
+left: 28.11%;
+right: 67.16%;
+top: 48.71%;
+bottom: 48.17%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #7C7C7C;
+
+}
+
+/* 4 */
+
+#dia4 {
+
+position: absolute;
+left: 57.77%;
+right: 36.86%;
+top: 48.71%;
+bottom: 48.17%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #7C7C7C;
+
+}
+
+
+/* 28 */
+
+#dia28 {
+
+position: absolute;
+left: 38.52%;
+right: 56.43%;
+top: 76.8%;
+bottom: 20.08%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+
+/* 18 */
+
+#dia18 {
+
+position: absolute;
+left: 79.24%;
+right: 16.03%;
+top: 63.2%;
+bottom: 33.68%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 13 */
+
+#dia13 {
+
+position: absolute;
+left: 79.24%;
+right: 16.03%;
+top: 55.84%;
+bottom: 41.04%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 6 */
+
+#dia6 {
+
+position: absolute;
+left: 79.87%;
+right: 16.03%;
+top: 48.71%;
+bottom: 48.17%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+
+/* 25 */
+
+#dia25 {
+
+position: absolute;
+left: 78.92%;
+right: 16.03%;
+top: 70.33%;
+bottom: 26.54%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 1 */
+
+#data1 {
+
+position: absolute;
+left: 80.18%;
+right: 16.03%;
+top: 76.8%;
+bottom: 20.08%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+}
+
+
+/* 22 */
+
+#data22 {
+position: absolute;
+left: 49.25%;
+right: 46.01%;
+top: 70.33%;
+bottom: 26.54%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+}
+
+
+/* 15 */
+
+#dia15 {
+position: absolute;
+left: 49.25%;
+right: 46.33%;
+top: 63.2%;
+bottom: 33.68%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+
+/* 10 */
+
+
+#dia10 {
+
+position: absolute;
+left: 49.25%;
+right: 46.33%;
+top: 55.84%;
+bottom: 41.04%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* 3 */
+
+#dia3 {
+
+position: absolute;
+left: 49.25%;
+right: 47.28%;
+top: 48.71%;
+bottom: 48.17%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #7C7C7C;
+
+}
+
+
+/* 29 */
+
+#dia29 {
+
+position: absolute;
+left: 49.25%;
+right: 46.01%;
+top: 76.8%;
+bottom: 20.08%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* Seg */
+
+#segunda {
+
+position: absolute;
+left: 27.23%;
+right: 66.92%;
+top: 42.24%;
+bottom: 54.69%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* Sex */
+
+#sexta {
+
+position: absolute;
+left: 67.94%;
+right: 26.21%;
+top: 42.24%;
+bottom: 54.69%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+
+/* Qua */
+
+#quarta {
+
+position: absolute;
+left: 48.09%;
+right: 45.8%;
+top: 42.24%;
+bottom: 54.69%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 13px;
+
+color: #252525;
+
+}
+
+/* Polygon 19 */
+
+#polygon19 {
+
+position: absolute;
+left: 73.23%;
+right: 23.42%;
+top: 37.52%;
+bottom: 60.79%;
+}
+
+/* Azul Escuro */
+
+#azulEscuro {
+
+background: #041832;
+transform: rotate(-180deg);
+
+}
+
+/* Polygon 20 */
+
+#polygon20 {
+
+position: absolute;
+left: 52.21%;
+right: 44.44%;
+top: 35.77%;
+bottom: 62.54%;
+
+}
+
+/* Azul Escuro B */
+
+#azulEscurob {
+
+background: #041832;
+
+}
+
+/* Maio */
+
+#maio {
+
+position: absolute;
+left: 30%;
+right: 47.28%;
+top: 34.66%;
+bottom: 61.55%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+
+
+/* Rectangle 98 */
+
+#rectangle98 {
+
+position: absolute;
+width: 149px;
+height: 46px;
+left: 39px;
+top: 426px;
+
+background: #006FFB;
+border-radius: 8px;
+
+}
+
+/* Rectangle 99 */
+
+#rectangle99 {
+
+position: absolute;
+width: 149px;
+height: 46px;
+left: 206px;
+top: 426px;
+
+background: #646464;
+border-radius: 8px;
+}
+
+/* Agendar B */
+
+#agendarb {
+
+position: absolute;
+width: 82px;
+height: 24px;
+left: 73px;
+top: 437px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+}
+
+/* Branco */
+
+#partebranca {
+color: #FFFFFF;
+}
+
+
+/* Cancelar */
+
+#cancelar {
+
+position: absolute;
+width: 86px;
+height: 24px;
+left: 241px;
+top: 437px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+/* Branco */
+color: #FFFFFF;
+
+}
