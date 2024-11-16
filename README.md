@@ -1,5 +1,4 @@
 # TeleMindProjetoII - Versão II
-##Em construção...
 ##Graduandos UNIVESP Eixo Tecnológico São Paulo - SP;
 
 ##APP para gerenciar e administrar clinica de Psicologia;
@@ -17,9 +16,10 @@ MTAveiro
 paulinho-0013
 santos-ana-p
 smartthomazjr
+
 ##Tecnologias utilizadas: Figma, Visual Studio, HTML, CSS, JS, MySQL, Node e Trello;
 
-##O TeleMindProjetoI foi a primeira versão do projeto;
+## Essa é uma 2ª versão do TeleMindProjetoI;
 
 ## Licença 
 
