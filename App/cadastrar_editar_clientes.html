@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pop-up de Clientes</title>
+    <link rel="stylesheet" href="css/cadastrar_editar_clientes.css"> 
+</head>
+<body>
+    <div class="popup" id="clientPopup"  st yle="display: none;">
+        <button class="close-button" onclick="closePopup()">X</button>
+        <div class="container">
+            <input type="text" placeholder="Nome Completo" class="input-field">
+            <div class="input-group">
+                <input type="text" placeholder=" Nascimento" onfocus="(this.type='date')"  class="input-field data-nascimento">
+                <input type="text" placeholder="CPF" onfocus="(this.type='number')" class="input-field cpf">
+            </div>
+            <input type="text" placeholder="Telefone de Contato" onfocus="(this.type='date')" class="input-field">
+            <input type="text" placeholder="Telefone Emergencial" class="input-field">
+            <input type="text" placeholder="CEP" onfocus="(this.type='number')" class="input-field">
+            <input type="text" placeholder="Endereço" class="input-field">
+            <div class="input-group">
+                <input type="text" placeholder="Número"  onfocus="(this.type='number')"class="input-field numero">
+                <input type="text" placeholder="Bairro" class="input-field bairro">
+            </div>
+            <div class="input-group">
+                <input type="text" placeholder="Município" class="input-field municipio">
+                <input type="text" placeholder="UF" class="input-field uf">
+            </div>
+            <a href="#" class="link-cadastrar-responsavel">Cadastrar Responsável</a>
+            <input type="text" placeholder="CID"
+            onfocus="(this.type='number')" 
+            class="input-field cid">
+            <textarea placeholder="Anotações" class="input-field anotacoes" style="height: 225px;"></textarea>
+            <div class="input-group plano-pagamento">
+                <div class="plano">
+                    <label>Plano</label>
+                    <input type="text" placeholder="Nome do Plano" class="input-field">
+                </div>
+                <div class="pagamento">
+                    <label>Pagamento</label>
+                    <input type="date" class="input-field">
+                </div>
+            </div>
+            <button class="btn-salvar">Salvar Cliente</button>
+        </div>
+    </div>
+
+    <script>
+        function closePopup() {
+            document.getElementById('clientPopup').style.display = 'none';
+        }
+    </script>
+</body>
+</html>

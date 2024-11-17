@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.popup {
+    width: 393px;
+    height: auto;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #006FFB;
+    border: none;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    z-index: 1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    font-weight: bolder;
+    color: white;
+}
+
+.container {
+    width: 316px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-field {
+    margin-bottom: 15px; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    width: 100%; 
+}
+
+.input-group {
+    display: flex;
+    justify-content: space-between;
+    width: 100%; 
+    margin-bottom: 5px;
+}
+
+.input-group input {
+    margin-left: 0;
+    width: 100%; 
+}
+
+.input-group .data-nascimento {
+    width: 105px; 
+    margin-left: -10px;
+    margin-right: 10px;
+
+
+}
+
+.input-group .cpf {
+    width: 180px;
+}
+
+.input-group .numero {
+    width: 105px;
+    margin-left: -10px; 
+    margin-right: 10px;
+}
+
+.input-group .bairro {
+    width: 170px;
+}
+
+.input-group .municipio {
+    width: 198px;
+    margin-left: -10px;
+}
+
+.input-group .uf {
+    width: 50px; /* Ajustar largura */
+}
+
+.link-cadastrar-responsavel {
+    color: #006ffb; 
+    text-decoration: none; 
+    align-self: flex-end; 
+    margin-bottom: 15px;
+    font-weight: bold; 
+}
+
+.textarea-anotacoes {
+    width: 100%; /* Largura total */
+    height: 225px; /* Altura fixa */
+    border-radius: 8px; /* Raio de borda */
+    resize: none; /* Desabilitar redimensionamento */
+}
+
+.plano-pagamento {
+    display: flex;
+    justify-content: space-between;
+    width: 100%; /* Largura total do contêiner */
+    margin-bottom: 15px; /* Espaço entre os campos */
+}
+
+.plano, .pagamento {
+    width: 48%; /* Largura de cada div (plano e pagamento) */
+}
+
+.plano label, .pagamento label {
+    color: grey;
+    display: block; 
+    margin-bottom: 5px; 
+}
+
+.btn-salvar {
+    width: 100%;
+    background-color: #006ffb; 
+    color: white; 
+    border: none; 
+    border-radius: 8px;
+    padding: 10px 20px; 
+    cursor: pointer; 
+    font-size: 16px; 
+    margin-top: 20px; 
+}

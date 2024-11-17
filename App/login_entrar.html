@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telemind - Entrar</title>
+    <link rel="stylesheet" href="css/login_entrar.css">
+    <link rel="stylesheet" href="css/vars.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="container" class="container">
+        <div id="logo_brand" class="logo_brand">
+            <img src="assets/logo.svg" alt="Logo" id="login_logo">
+            <img src="assets/brand.svg" alt="Brand">
+        </div>
+        <div id="login_campos" class="campos">
+            <input type="text" id="login_usuario" placeholder="Usuário">
+            <input type="password" id="login_senha" placeholder="Senha">
+            <button id="login_entrar" class="entrar">ENTRAR</button>
+        </div>
+        
+        <div id="login_cadastre-se">
+            <a href="#" id="login_cadastre-link">Não tem conta? <b>Cadastre-se</b></a>
+        </div>
+        
+        <div class="popup" id="signupPopup">
+            <div class="container">
+                <button class="close-button" onclick="closePopup()">X</button>
+                <input type="text" placeholder="Nome Completo" class="input-field">
+                <input type="email" placeholder="Email" class="input-field" required>
+                <input type="text" placeholder="CPF" class="input-field" required>
+                <input type="password" id="signup_senha" placeholder="Senha" class="input-field" required>
+                <input type="password" id="signup_confirmar_senha" placeholder="Confirmar Senha" class="input-field" required>
+                <button class="submit-button">Criar Conta</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/login_entrar.js"></script>
+</body>
+</html>

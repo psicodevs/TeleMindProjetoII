@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telemind - Pagamentos</title>
+    <link rel="stylesheet" href="css/pagamentos.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="pesquisar_cliente">
+                <input type="text" placeholder="Pesquisar cliente" class="search-bar">
+                <a href="#" class="search-icon-link">
+                    <img src="magnifier.png" alt="Search Icon" class="search-icon">
+                </a>
+            </div>
+        </div>
+
+        <div class="valores_faturamento">
+            <div class="valores_aberto">
+                <span class="label">Valores em aberto</span>
+                <span class="valor">R$ 300,00</span>
+            </div>
+            <div class="valores_pago">
+                <span class="label">Valores pagos</span>
+                <span class="valor">R$ 500,00</span>
+            </div>
+        </div>
+
+        <div class="frequencia">
+            <button class="freq-button">Hoje</button>
+            <button class="freq-button">Semana</button>
+            <button class="freq-button">15 dias</button>
+            <button class="freq-button">30 dias</button>
+        </div>
+
+        <div class="clientes_banco_dados">
+            <div class="header-row">
+                <div class="column grey"></div>
+                <div class="column"></div>
+                <div class="column"></div>
+                <div class="column icon-column"></div>
+            </div>
+            <div class="row">
+                <div class="column">01/01/2023</div>
+                <div class="column">Cliente A</div>
+                <div class="column">R$ 100,00</div>
+                <div class="column icon-column">
+                    <a href="#">
+                        <img src="assets/pagamento icone.png" alt="Icon" class="icon">
+                    </a>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <div class="row">
+                <div class="column">02/01/2023</div>
+                <div class="column">Cliente B</div>
+                <div class="column">R$ 200,00</div>
+                <div class="column icon-column">
+                    <a href="#">
+                        <img src="img.png" alt="Icon" class="icon">
+                    </a>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <!-- banco de dados -->
+        </div>
+
+        <div class="footer">
+            <img src="assets/home icone.png" alt="home" class="footer-icon">
+            <img src="assets/usuario icone.png" alt="Icon 2" class="footer-icon">
+            <img src="assets/agenda.svg" alt="Icon 3" class="footer-icon">
+            <img src="assets/pagamento icone.png" alt="Icon 4" class="footer-icon">
+        </div>
+    </div>
+
+    <script src="js/pagamentos.js"></script>
+</body>
+</html>
