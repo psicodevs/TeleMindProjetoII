@@ -12,7 +12,7 @@
 
 </div>
 
-> Status do Projeto: :heavy_check_mark: :warning: Concluído.
+> Status do Projeto: :heavy_check_mark: :warning: Concluído :heavy_check_mark:
 
 ### Tópicos 
 
@@ -47,33 +47,33 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
 
 ## Layout ou Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação: Em construção
+> Link do deploy da aplicação: Em construção...
 
 ## Linguagens, dependências, libs e tecnologia utilizadas :books:
 
 <h3>Front-end</h3>
 <ul>
-    <li><b>Status: </b>Em cosntrução</li>
+    <li><b>Status: </b>Concluído</li>
     <li><b>Tecnologias: </b>Figma, HTML, CSS e Javascript.</li>
 </ul>
 <h3>Back-end</h3>
-    <li><b>Tecnologias: </b>Node.js... Em cosntrução.</li>
+    <li><b>Tecnologias: </b>Node.js</li>
 <ul>
-    <li><b>Status: </b>Em cosntrução</li>   
+    <li><b>Status: </b>Concluído</li>   
     <li><b>Observações: </b> Foi utilizada a linguagem SQL (Banco de dados).</li>
 </ul>
 <h3>Base de dados</h3>
 <ul>
-    <li><b>Status: </b>Em cosntrução</li>
+    <li><b>Status: </b>Concluído :heavy_check_mark:</li>
     <li><b>Tecnologias: </b>MySQL</li>
 </ul>
 <h3>Outros</h3>
 <ul>
-    <li><b>Status: </b>Em cosntrução</li>
-    <li><b>Tecnologias: </b>Figma, Visual Studio e Trello</li>
+    <li><b>Status: </b>Concluído :heavy_check_mark:</li>
+    <li><b>Tecnologias: </b>Figma, Visual Studio Code e Trello</li>
 </ul>
 
-## Desenvolvedores: :octocat:
+## Desenvolvedores e users git: :octocat:
 
 <h4>Adriel Saul Candido Vieira de Oliveira; adrielsaul;</h4>
 <h4>Ana Maria Fontes da Silva: anafontessp;</h4>
