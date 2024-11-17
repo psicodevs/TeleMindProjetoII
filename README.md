@@ -1,11 +1,15 @@
 # TeleMindII
-## Graduandos UNIVESP Eixo Tecnológico São Paulo - SP;
+#### Graduandos UNIVESP Eixo Tecnológico São Paulo - SP;
 
-## Software para gerenciar e administrar clinica de Psicologia;
-## Esse projeto é uma versão mais robusta do TeleMindProjetoI;
-## Equipe composta por graduandos do Eixo Tecnológico da Universidade Virtual do Estado de São Paulo;
-## Esse projeto visa desenvolver trabalhos que tenha impactos sociais em bairros na cidade de São Paulo;
-## O local escolhido foi uma clinica de Psicologia na região da zona leste da cidade de São Paulo;
+#### Software para gerenciar e administrar clinica de Psicologia;
+
+#### Esse projeto é uma versão mais robusta do TeleMindProjetoI;
+
+#### Equipe composta por graduandos do Eixo Tecnológico da Universidade Virtual do Estado de São Paulo;
+
+#### Esse projeto visa desenvolver trabalhos que tenha impactos sociais em bairros na cidade de São Paulo;
+
+#### O local escolhido foi uma clinica de Psicologia na região da Zona Leste da cidade de São Paulo;
 
 <div align="center">
     <h1>TeleMindII</h1>
