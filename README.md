@@ -57,7 +57,7 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
     <li><b>Tecnologias: </b>Figma, HTML, CSS e Javascript.</li>
 </ul>
 <h3>Back-end</h3>
-    <li>Em cosntrução</li>
+    <li><b>Tecnologias: </b>Node.js... Em cosntrução.</li>
 <ul>
     <li><b>Status: </b>Em cosntrução</li>   
     <li><b>Observações: </b> Foi utilizada a linguagem SQL (Banco de dados).</li>
@@ -73,11 +73,11 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
     <li><b>Tecnologias: </b>Figma, Visual Studio e Trello</li>
 </ul>
 
-## Desenvolvedore: :octocat:
+## Desenvolvedores: :octocat:
 
-<h4>Adriel Saul; adrielsaul;</h4>
+<h4>Adriel Saul Candido Vieira de Oliveira; adrielsaul;</h4>
 <h4>Ana Maria Fontes da Silva: anafontessp;</h4>
-<h4>Ana Paula Santos: santos-ana-p;</h4>
+<h4>Ana Paula dos Santos: santos-ana-p;</h4>
 <h4>Bianca Zani de Freitas: BiancaZani;</h4>
 <h4>Cristiano da Palma Neves: CristianoPNeves;</h4>
 <h4>Matheus Tomaz de Aveiro: MTAveiro;</h4>
