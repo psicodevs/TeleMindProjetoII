@@ -79,14 +79,14 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
 
 ## Desenvolvedores e users git: :octocat:
 
-<h4>Adriel Saul Candido Vieira de Oliveira: :mag: adrielsaul;</h4>
-<h4>Ana Maria Fontes da Silva: :mag: anafontessp;</h4>
-<h4>Ana Paula dos Santos: :mag: santos-ana-p;</h4>
-<h4>Bianca Zani de Freitas: :mag: BiancaZani;</h4>
-<h4>Cristiano da Palma Neves: :mag: CristianoPNeves;</h4>
-<h4>Matheus Tomaz de Aveiro: :mag: MTAveiro;</h4>
-<h4>Paulo Ricardo Andrade Barroso: :mag: paulinho-0013;</h4>
-<h4>Sergio Martins Tomaz Junior: :mag: smartthomazjr;</h4>
+<h4>Adriel Saul Candido Vieira de Oliveira: adrielsaul;</h4>
+<h4>Ana Maria Fontes da Silva: anafontessp;</h4>
+<h4>Ana Paula dos Santos: santos-ana-p;</h4>
+<h4>Bianca Zani de Freitas: BiancaZani;</h4>
+<h4>Cristiano da Palma Neves: CristianoPNeves;</h4>
+<h4>Matheus Tomaz de Aveiro: MTAveiro;</h4>
+<h4>Paulo Ricardo Andrade Barroso: paulinho-0013;</h4>
+<h4>Sergio Martins Tomaz Junior: smartthomazjr;</h4>
 
 <h2>Curso:</h2> Eixo Tecnológico de Computação - Univesp - São Paulo 2024;
 
