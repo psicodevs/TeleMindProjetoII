@@ -97,7 +97,7 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
 <br>
 
 <p align="justify">
-<h2>Agradecimentos![alt text](image.png):</h2> O projeto TeleMindII foi elaborado graças a toda infraestrutura de formação da Univesp, conhecimento, instruções e dedicação dos professores e mestres. Aos nossos familiares e amigos que nos apoiam durante toda essa jornada de aprendizado. </p>
+<h2>Agradecimentos:</h2> O projeto TeleMindII foi elaborado graças a toda infraestrutura de formação da Univesp, conhecimento, instruções e dedicação dos professores e mestres. Aos nossos familiares e amigos que nos apoiam durante toda essa jornada de aprendizado. </p>
 
 ## Licença 
 
