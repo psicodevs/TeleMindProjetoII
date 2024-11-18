@@ -27,7 +27,7 @@
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação)
 
 
-## Descrição do projeto 
+## Descrição do projeto :bulb: :computer: :books: :rocket:  
 
 <p align="justify">
 O intuito do projeto TeleMind é facilitar o gerenciamento e administração de dados para consultório de psicologia.
@@ -35,7 +35,7 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
 
 </p>
 
-## Funcionalidades
+## Funcionalidades :loudspeaker:
 
 :heavy_check_mark: Interface gráfica interativa de fácil acesso;  
 
@@ -53,7 +53,7 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
 
 > Link do deploy da aplicação: Em construção...
 
-## Linguagens, dependências, libs e tecnologia utilizadas :books:
+## Linguagens, dependências, libs e tecnologia utilizadas :dart:
 
 <h3>Front-end</h3>
 <ul>
@@ -61,7 +61,7 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
     <li><b>Tecnologias: </b>Figma, HTML, CSS e Javascript.</li>
 </ul>
 <h3>Back-end</h3>
-    <li><b>Tecnologias: </b>Node.js</li>
+    <li><b>Tecnologias: </b>Node.js.</li>
 <ul>
     <li><b>Status: </b>Concluído</li>   
     <li><b>Observações: </b> Foi utilizada a linguagem SQL (Banco de dados).</li>
@@ -77,7 +77,7 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
     <li><b>Tecnologias: </b>Figma, Visual Studio Code e Trello</li>
 </ul>
 
-## Desenvolvedores e users git: :octocat:
+## Desenvolvedores e users git:  :octocat:
 
 <h4>Adriel Saul Candido Vieira de Oliveira: adrielsaul;</h4>
 <h4>Ana Maria Fontes da Silva: anafontessp;</h4>
@@ -90,7 +90,7 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
 
 <h2>Curso:</h2> Eixo Tecnológico de Computação - Univesp - São Paulo 2024;
 
-<h2>Professora orientadora:</h2>
+<h2>Professora orientadora: :mortar_board:</h2>
 
 <h3>Bianca Cristina de Oliveira Fabiano</h3>
 
