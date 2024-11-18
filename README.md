@@ -16,7 +16,7 @@
 
 </div>
 
-> Status do Projeto: :heavy_check_mark: :warning: Concluído :heavy_check_mark:
+> Status do Projeto: :heavy_check_mark: :warning: Concluído :heavy_check_mark: 
 
 ### Tópicos 
 
@@ -97,7 +97,7 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
 <br>
 
 <p align="justify">
-<h2>Agradecimentos:</h2> O projeto TeleMindII foi elaborado graças a toda infraestrutura de formação da Univesp, conhecimento, instruções e dedicação dos professores e mestres. Aos nossos familiares e amigos que nos apoiam durante toda essa jornada de aprendizado. </p>
+<h2>Agradecimentos :heart::</h2> O projeto TeleMindII foi elaborado graças a toda infraestrutura de formação da Univesp, conhecimento, instruções e dedicação dos professores e mestres. Aos nossos familiares e amigos que nos apoiam durante toda essa jornada de aprendizado. </p>
 
 ## Licença 
 
