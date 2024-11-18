@@ -90,7 +90,7 @@ O software visa automatizar a gestão administrativa do consultório, permitindo
 
 <h2>Curso:</h2> Eixo Tecnológico de Computação - Univesp - São Paulo 2024;
 
-<h2>Professora orientadora: :mortar_board:</h2>
+<h2>Professora orientadora :mortar_board: :</h2>
 
 <h3>Bianca Cristina de Oliveira Fabiano</h3>
 
